@@ -16,4 +16,4 @@ function nota(vet){
     return vet
 }
 
-console.log(nota([2,6,8,9]))
+console.log(nota([2,6,8,10]))
